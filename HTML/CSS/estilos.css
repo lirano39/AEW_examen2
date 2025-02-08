@@ -23,6 +23,13 @@ nav {
 }
 
 .menu-horizontal  > li:hover {
+        background-color: #fffc55;
+
+}
+
+.Imagen-principal {
+    max-width: 100%;
+    object-fit: contain;
 
 
 }
